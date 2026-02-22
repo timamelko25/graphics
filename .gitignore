@@ -1,0 +1,36 @@
+# Build folders
+x64/
+Debug/
+Release/
+
+# VS folders
+.vs/
+
+# User files
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+
+# Temp files
+*.log
+*.tlog
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.sbr
+*.ipch
+*.recipe
+*.lastbuildstate
+
+# Output files
+*.exe
+*.dll
+*.lib
+*.exp
+*.exe.recipe
+
+
