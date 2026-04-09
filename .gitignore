@@ -32,3 +32,5 @@ Release/
 *.lib
 *.exp
 *.exe.recipe
+
+lectures/
