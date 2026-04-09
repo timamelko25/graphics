@@ -19,4 +19,27 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\brick.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\negx.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\negy.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\negz.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\posx.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\posy.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\Skybox\posz.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
